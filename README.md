@@ -1,7 +1,13 @@
-### Hi there 👋
+
+HackerMan at [Sprocket Security](https://sprocketsecurity.com)
+
+<div id="header" align="left">
+  <img src="https://i.pinimg.com/originals/48/95/40/489540a749073a6ef5c2b578d50fdf60.gif" width="250"/>
+</div>
 
 <!--
 **JPG0mez/JPG0mez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![JPG0mez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPG0mez)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
