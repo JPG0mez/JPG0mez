@@ -6,8 +6,9 @@ HackerMan at [Sprocket Security](https://sprocketsecurity.com)
 </div>
 
 <div>
-
-
+  <a href="https://wigle.net">
+    <img border="0" src="https://wigle.net/bi/OAIa5X5IajRts1xEGrvGTA.png">
+  </a> 
 </div>
 
 <div>
